@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHub\\geekbrains\\006_C#\\GB-006_C-HW003\\GB-006_C-HW003.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\geekbrains\\006_C#\\GB-006_C-HW003\\GB-006_C-HW003.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\geekbrains\\006_C#\\GB-006_C-HW003\\GB-006_C-HW003.csproj",
+        "projectName": "GB-006_C-HW003",
+        "projectPath": "D:\\GitHub\\geekbrains\\006_C#\\GB-006_C-HW003\\GB-006_C-HW003.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\geekbrains\\006_C#\\GB-006_C-HW003\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
